@@ -1,2 +1,3 @@
 This is my 2nd file 
- This my 2nf file.......... 'file2.txt 
+ This my 2nD file.......... 'file2.txt 
+i am editing the file !
